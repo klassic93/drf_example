@@ -11,34 +11,28 @@ Documentation to RESTful project
 
 * Get or Create users:
 
-
-     /api/v1/users/
+***/api/v1/users/***
      
 * Get one user via primary key (```<pk>```) and change him:
 
-     
-     /api/v1/users/<pk>/
+***/api/v1/users/```<pk>```/***
      
 * Get or Create books:
 
-
-     /api/v1/books/
+***/api/v1/books/***
      
 * Get one book via primary key (```<pk>```) and change it:
 
-
-     /api/v1/books/<pk>/
+***/api/v1/books/```<pk>```/***
      
      
 * Get only available books:
 
-
-     /api/v1/books/free/
+***/api/v1/books/free/***
      
-* Get rating books where popularity from 1 to 100:
+* Get rating books where popularity **from 1 to 100**:
 
-
-     /api/v1/books/?popularity=<int:value>
+***/api/v1/books/?popularity=```<int:value>```***
 
 
 ## Download
