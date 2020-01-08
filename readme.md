@@ -6,7 +6,6 @@ Documentation to RESTful project
 3. [Requirements](#Requirements)
 4. [Creating database](#Database)
 4. [Run project](#Start)
-4. [Link example](#Это-заголовок)
 
 ## API
 
@@ -144,5 +143,3 @@ and run server
 go to [http://127.0.0.1:8000/api/v1/users/](http://127.0.0.1:8000/api/v1/users/)
 
 Congratulations! You can use [this api](#API)
-
-### Это заголовок
